@@ -127,7 +127,7 @@ const Index = () => {
                 <Icon name="Newspaper" size={24} className="text-white" />
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Новостной Портал
+                Бортовой журнал «ДвижОК»
               </h1>
             </div>
             <Button variant="outline" className="gap-2">
@@ -232,7 +232,7 @@ const Index = () => {
                 <div className="w-10 h-10 bg-gradient-to-br from-primary to-accent rounded-lg flex items-center justify-center">
                   <Icon name="Newspaper" size={24} className="text-white" />
                 </div>
-                <h3 className="text-xl font-bold">Новостной Портал</h3>
+                <h3 className="text-xl font-bold">Бортовой журнал «ДвижОК»</h3>
               </div>
               <p className="text-gray-400">
                 Актуальные новости и аналитика каждый день
@@ -272,7 +272,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            © 2025 Новостной Портал. Все права защищены.
+            © 2025 Бортовой журнал «ДвижОК». Все права защищены.
           </div>
         </div>
       </footer>
